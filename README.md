@@ -311,3 +311,50 @@
 | [乌龟加速](https://github.com/AbbeyMcDermotts/wugui-jichang#乌龟加速机场18-元月-200g月付档家庭不限设备2026-10-31-更新) | 18 元/月 200G，IEPL | 33 行 | [wugui-jichang](https://github.com/AbbeyMcDermotts/wugui-jichang) |
 | [飞兔云](https://github.com/AbbeyMcDermotts/feituyun-jichang#飞兔云机场99-元月-118g80-多国节点与-1-倍中转2026-11-01-更新 | 9.9 元/月 118G，80+ 多国节点 1 倍中转 | 延迟实测 | [feituyun-jichang](https://github.com/AbbeyMcDermotts/feituyun-jichang) |
 | [TAG](https://github.com/AbbeyMcDermotts/tag-jichang#tag机场330-线路覆盖-100-国家冷门地区与家宽资源丰富2026-11-01-更新 | 330+ 线路 100+ 国家，冷门地区与家宽 | 326 行 | [tag-jichang](https://github.com/AbbeyMcDermotts/tag-jichang) |
+<!-- P016-VERIFIED-NAV-START -->
+
+## 40 家机场导航（AbbeyMcDermotts）
+
+- [青云梯](https://github.com/AbbeyMcDermotts/15-jichang) · [官网注册](https://inv02.qytaff.cc/register?aff=29Wq9LnO)
+- [一云梯](https://github.com/AbbeyMcDermotts/12-jichang) · [官网注册](https://i01.1ytaff01.cc/register?aff=H0YQmovD)
+- [FastLink](https://github.com/AbbeyMcDermotts/11-fastlink-jichang) · [官网注册](https://a01.flaff9.cc/auth/register?code=EC80x83h)
+- [龙猫云](https://github.com/AbbeyMcDermotts/18-jichang) · [官网注册](https://inv06.lmaff01.cc/register?aff=MQezCjhG)
+- [Nerwo奶瓶 / Paxora](https://github.com/AbbeyMcDermotts/22-nerwo-jichang) · [官网注册](https://invite.eleven.observer/#/register?code=tnOXkma3)
+- [酷酷云KuKuYun](https://github.com/AbbeyMcDermotts/21-kukuyun-jichang) · [官网注册](https://i01.kkyaffa.cc/register?aff=vpwMjPQ0)
+- [闪狐云](https://github.com/AbbeyMcDermotts/25-jichang) · [官网注册](https://i01.ffaff.cc/register?aff=Z9crzRfx)
+- [银河云GalaxyCloud](https://github.com/AbbeyMcDermotts/26-galaxycloud-jichang) · [官网注册](https://inv04.galaxyaff.cc/register?aff=AMjBRNfY)
+- [速云梯](https://github.com/AbbeyMcDermotts/28-jichang) · [官网注册](https://suyunti981.xyz/auth/register?code=AKDD)
+- [少数派](https://github.com/AbbeyMcDermotts/30-jichang) · [官网注册](https://s1.thefew01.top/#/register?code=8d4VZGPI)
+- [ssLinks](https://github.com/AbbeyMcDermotts/35-sslinks-jichang) · [官网注册](https://98a6251b6cd7471da86cca993b6dbe6f.36d.biz#/register?code=VTt9JP4h)
+- [泡芙云](https://github.com/AbbeyMcDermotts/14-jichang) · [官网注册](https://www.paofu.cloud/auth/register?code=f4ND)
+- [Aladdin](https://github.com/AbbeyMcDermotts/32-aladdinaladdin-jichang) · [官网注册](https://www.aladingnet.xyz/#/register?code=KIKqaWur)
+- [守候网络](https://github.com/AbbeyMcDermotts/33-jichang) · [官网注册](https://ncdn1.sntp.uk/auth/register?code=Q8VZCRXT)
+- [次元链接](https://github.com/AbbeyMcDermotts/23-jichang) · [官网注册](https://次元.vip/auth/register?code=JwvOuJ)
+- [云翼网络](https://github.com/AbbeyMcDermotts/38-jichang) · [官网注册](https://s1.fluxlink.top/#/register?code=H6lCti8g)
+- [大哥云](https://github.com/AbbeyMcDermotts/39-jichang) · [官网注册](https://aff01.zygbx.com/#/register?code=frc0vbWr)
+- [蓝帆云](https://github.com/AbbeyMcDermotts/42-jichang) · [官网注册](https://lanfanz.cc/portal/register?code=fGhk)
+- [MESL](https://github.com/AbbeyMcDermotts/46-mesl-jichang) · [官网注册](https://in.mesl.cloud/#/register?code=KWgnAnFS)
+- [海豚湾](https://github.com/AbbeyMcDermotts/50-jichang) · [官网注册](https://cdn0315.manage.hitun.io/auth/register?affid=454484)
+- [Miaona](https://github.com/AbbeyMcDermotts/55--miaona-jichang) · [官网注册](https://miaona.xyz/#/register?code=bRryRJpt)
+- [咖啡云](https://github.com/AbbeyMcDermotts/54-jichang) · [官网注册](https://aicoffee.app/#/register?code=BtycFv4l)
+- [速鹰666](https://github.com/AbbeyMcDermotts/56--666-jichang) · [官网注册](https://sy7770.com/auth/register?code=ACyQ)
+- [TAG](https://github.com/AbbeyMcDermotts/tag-jichang) · [官网注册](https://tagss.pro/#/auth/lqGMKley)
+- [FlyingBird](https://github.com/AbbeyMcDermotts/09-flyingbird-jichang) · [官网注册](https://fbinv02.fbaff.cc/auth/register?code=KUtIhkoL)
+- [飞兔云](https://github.com/AbbeyMcDermotts/feituyun-jichang) · [官网注册](https://vip.xn--h5qy75o.vip/#/register?code=tFzFObOE)
+- [秒连云](https://github.com/AbbeyMcDermotts/miaolianyun-jichang) · [官网注册](https://mly518.com/#/register?code=IDN5bnoG)
+- [赔钱机场](https://github.com/AbbeyMcDermotts/peiqian-jichang) · [官网注册](https://xn--mes358aby2apfg.com/register?code=qhyiSP1G&cover=sfw)
+- [赛博云](https://github.com/AbbeyMcDermotts/saiboyun-jichang) · [官网注册](https://saiboyun.org/#/register?code=dAvrmHqg)
+- [极速123](https://github.com/AbbeyMcDermotts/jisu123-jichang) · [官网注册](https://905.jsy902.xyz/#/register?code=w5eVtnWC)
+- [红杏云](https://github.com/AbbeyMcDermotts/hongxing-jichang) · [官网注册](https://hongxingdl.one/web/#/login?code=jxeAiWEC)
+- [乌龟加速](https://github.com/AbbeyMcDermotts/wugui-jichang) · [官网注册](https://wuguijiasu.com/#/login?code=dd6NtGYo)
+- [星维](https://github.com/AbbeyMcDermotts/xinwei-jichang) · [官网注册](https://xinweicloud.com/?mode=register&invite=ICg5rb7n)
+- [哆啦A梦](https://github.com/AbbeyMcDermotts/doraemon-jichang) · [官网注册](https://web1.yyds2-doraemon.site/login/register?invite_code=1yjj7VQR)
+- [糖果云](https://github.com/AbbeyMcDermotts/candy-jichang) · [官网注册](http://candyzzyz.com/web/#/login?code=h64lQtUO)
+- [云帆](https://github.com/AbbeyMcDermotts/yunfan-jichang) · [官网注册](https://b.yfgo.cc/#/register?code=5Z4tLA7q)
+- [BiuBiu](https://github.com/AbbeyMcDermotts/biubiu-jichang) · [官网注册](https://biubiux.online/#/register?code=iS1OQJ7Q)
+- [山海](https://github.com/AbbeyMcDermotts/shanhai-jichang) · [官网注册](https://shanhai.cfd/#/register?code=JCTl4PVQ)
+- [极速Cloud](https://github.com/AbbeyMcDermotts/jisucloud-jichang) · [官网注册](https://191.101.132.80/#/register?code=jR8v0DFd)
+- [贝贝云](https://github.com/AbbeyMcDermotts/beibei-jichang) · [官网注册](https://2beibei.com/register?code=tYdL5jFF)
+
+以上注册入口均为本站推广链接；经这些链接注册或购买，本站可能获得佣金。
+<!-- P016-VERIFIED-NAV-END -->
